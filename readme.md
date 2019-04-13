@@ -8,6 +8,9 @@
 1. Relação do uso do vídeo com o universo dos alunos, dos professores e da sala de aula, presencial ou à distância
 
 ## PROJETOS FINAIS
+
+[Elaboração de vídeos para aprensetar a educadores modos de utilização e não utilizalção do vídeo em sala de aula](PlayEduc.md)
+
 [Integração da produção de vídeo na disciplina de Eletricidade Aplicada](t1.md)
 
 [Projeto ABCD](GrupoABCD.md)
