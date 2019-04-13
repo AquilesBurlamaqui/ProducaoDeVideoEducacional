@@ -20,5 +20,5 @@ Eli Sales M. Lima
 
 ## Motivação
 
-> Utilizar a produção de vídeo como forma de avaliação e justificativa da execução de um projeto de instalações elétricas.
+> Utilizar a produção de vídeo como forma de apresentação e avaliação da execução de um projeto de instalações elétricas.
 
