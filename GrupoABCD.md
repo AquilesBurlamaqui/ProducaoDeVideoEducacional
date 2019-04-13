@@ -56,7 +56,5 @@ Dia: 26 (sexta-feira) 14h às 22h
 - Ver videoaula sobre FILMORA GO
 
 
-## ENCAMINHAMENTO PARA A PRÓXIMA AULA
-Dia: 26 (sexta-feira) 14h às 22h
-- Gravar e Editar vídeo explicando o projeto da disciplina (1min)
-- Ver videoaula sobre FILMORA GO
+## INDICAÇÃO DE LEITURA
+
