@@ -1,4 +1,4 @@
-## Prática 03:
+Prática 03:
 
 Francisco de Assis
 
@@ -22,3 +22,7 @@ Dificuldade de encontrar vídeos que auxiliem o professor na utilização adequa
 ## Motivação
 
 Mostrar de modo rápido e objetivo as possibilidades de utilização dos vídeos, assim como os erros mais comuns contribuindo para que os professores possam trabalhar com os alunos utilizando os vídeos de forma adequada.
+
+## Anexos
+
+[Roteiros](https://docs.google.com/document/d/1GEGRsFhJ7rYOYsJqWd09G3uIqM9VIBkogvkLIwvZWe8/edit?usp=sharing)
