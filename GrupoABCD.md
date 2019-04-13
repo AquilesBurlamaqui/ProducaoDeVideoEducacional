@@ -1,7 +1,7 @@
-Delimitar o tema:
+# Delimitar o tema:
 
 Referencial Teórico
-#INTRODUÇÃO
+# INTRODUÇÃO
 Formação continuada para o ensino superior - Bruna
 TPACK - Daniel 
 Ensino híbrido - Cristiane
