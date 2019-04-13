@@ -6,7 +6,7 @@ Componente curricular do PPGITE - UFRN
 1. Atualidade frente às redes sociais
 1. Técnica e crítica sobre o uso das tecnologias envolvidas
 1. Relação do uso do vídeo com o universo dos alunos, dos professores e da sala de aula, presencial ou à distância
-1. Etapas na Produção de Vídeo Educacional
+1. [Etapas na Produção de Vídeo Educacional](etapasproducao.md)
 
 ## PROJETOS FINAIS
 
