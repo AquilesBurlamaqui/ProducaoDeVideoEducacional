@@ -9,6 +9,8 @@
 
 ## PROJETOS FINAIS
 
+[ir para o google](www.google.com)
+
 [Elaboração de vídeos para aprensetar a educadores modos de utilização e não utilizalção do vídeo em sala de aula](PlayEduc.md)
 
 [Integração da produção de vídeo na disciplina de Eletricidade Aplicada](t1.md)
