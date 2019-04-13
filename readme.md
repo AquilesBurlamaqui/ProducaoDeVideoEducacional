@@ -7,4 +7,7 @@
 1. Técnica e crítica sobre o uso das tecnologias envolvidas
 1. Relação do uso do vídeo com o universo dos alunos, dos professores e da sala de aula, presencial ou à distância
 
+## PROJETOS FINAIS
+[Vídeo para Instalações](t1.md)
+
 [Como editar os arquivos do git](https://www.markdownguide.org/basic-syntax)
