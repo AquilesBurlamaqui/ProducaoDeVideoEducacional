@@ -1,4 +1,4 @@
-## Pratíca 03:
+## Prática 03:
 
 Francisco de Assis
 
