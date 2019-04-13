@@ -44,6 +44,7 @@ Storyboard:
 
 Edição:
 
+
 ## ENCONTRO HANGOUTS
 Dia: 18 (quinta-feira) às 21h
 - Pauta: PowToon
