@@ -20,4 +20,4 @@ Componente curricular do PPGITE - UFRN
 
 [Como editar os arquivos do git](https://www.markdownguide.org/basic-syntax)
 
-[produçao de vídeo educacional para EAD em um contexto militar](Pand@.md)
+[Produçao de vídeo educacional para EAD em um contexto militar](Pand@.md)
