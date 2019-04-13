@@ -9,7 +9,7 @@
 
 ## PROJETOS FINAIS
 
-[ir para o google](http://www.google.com)
+[Projeto dos Profs](aquilesakynara.md)
 
 [Elaboração de vídeos para aprensetar a educadores modos de utilização e não utilizalção do vídeo em sala de aula](PlayEduc.md)
 
