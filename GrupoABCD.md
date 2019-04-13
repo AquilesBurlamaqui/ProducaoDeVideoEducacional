@@ -3,7 +3,7 @@
 
 ## PLANEJAMENTO
 Objetivo
-Formar professores do ensino superior para a produção de vídeos educacionais.
+- Formar professores do ensino superior para a produção de vídeos educacionais.
 
 Campo Empírico
 - Instituição de Ensino Superior privada em Natal/RN.
@@ -23,7 +23,9 @@ Referencial Teórico
 - Formação docente para utilização do vídeo no ensino híbrido em IES privada
 
 Produção:
+
 Gravação: 
+
 Roteiro:
 - Enquadramento
 - Iluminação
