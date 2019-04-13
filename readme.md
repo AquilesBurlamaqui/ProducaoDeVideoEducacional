@@ -12,7 +12,7 @@ Componente curricular do PPGITE - UFRN
 
 [Projeto dos Profs](aquilesakynara.md)
 
-[Elaboração de vídeos para aprensetar a educadores modos de utilização e não utilizalção do vídeo em sala de aula](PlayEduc.md)
+[Elaboração de vídeos para apresentar a educadores modos de utilização e não utilizalção do vídeo em sala de aula](PlayEduc.md)
 
 [Integração da produção de vídeo na disciplina de Eletricidade Aplicada](t1.md)
 
