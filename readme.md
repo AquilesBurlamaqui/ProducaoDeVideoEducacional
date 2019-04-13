@@ -10,8 +10,6 @@ Componente curricular do PPGITE - UFRN
 
 ## PROJETOS FINAIS
 
-![storyboard](imagens/storyboard.jtif)
-
 [Projeto dos Profs](aquilesakynara.md)
 
 [Elaboração de vídeos para apresentar a educadores modos de utilização e não utilizalção do vídeo em sala de aula](PlayEduc.md)
@@ -22,4 +20,4 @@ Componente curricular do PPGITE - UFRN
 
 [Como editar os arquivos do git](https://www.markdownguide.org/basic-syntax)
 
-Produção de vídeo educacional em um contexto militar (pand@.md)
+[produçao de vídeo educacional para EAD em um contexto militar](Pand@.md)
