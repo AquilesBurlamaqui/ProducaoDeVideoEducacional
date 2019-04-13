@@ -15,12 +15,15 @@ Motivação
 - Exigência do mercado para o uso das Tecnologias Digitais de Informação e Comunicação (TDIC).
 
 ## BRAINSTORMING
+Introdução
 Referencial teórico para o artigo
 - Formação continuada para o ensino superior - Bruna
 - TPACK - Daniel 
 - Ensino híbrido - Cristiane
 - Produção de vídeo educacional em formato tutorial - Patrícia
 - Formação docente para utilização do vídeo no ensino híbrido em IES privada
+Resultados
+Conclusão
 
 Produção de Vídeos
 
@@ -35,8 +38,12 @@ Roteiro:
 - Movie Maker: edição
 - PownToon: produção de tutoriais
 
-Publicação
+Publicação:
 
 Storyboard:
 
 Edição:
+
+## ENCONTRO HANGOUTS
+Dia: 18 (quinta-feira) às 20h
+- Pauta: PowToon
