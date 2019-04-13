@@ -1,1 +1,1 @@
-![storyboard](imagens/download (1).jpeg)
+![storyboard](imagens/storyboard.jpeg)
