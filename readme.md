@@ -10,6 +10,8 @@ Componente curricular do PPGITE - UFRN
 
 ## PROJETOS FINAIS
 
+![storyboard](imagens/storyboard.jtif)
+
 [Projeto dos Profs](aquilesakynara.md)
 
 [Elaboração de vídeos para apresentar a educadores modos de utilização e não utilizalção do vídeo em sala de aula](PlayEduc.md)
