@@ -67,3 +67,6 @@ Dia: 26 (sexta-feira) 14h às 22h
 - Agenda: proposta do grupo
 - Artigo Científico: divisão de tarefas
 
+
+## POWNTOON
+- Arquivo colaborativo para conhecer os recursos.
