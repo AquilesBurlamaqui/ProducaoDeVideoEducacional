@@ -22,8 +22,11 @@ Referencial teórico para o artigo
 - Ensino híbrido - Cristiane
 - Produção de vídeo educacional em formato tutorial - Patrícia
 - Formação docente para utilização do vídeo no ensino híbrido em IES privada
+
 Resultados
+
 Conclusão
+Referências
 
 Produção de Vídeos
 
