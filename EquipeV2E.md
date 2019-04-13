@@ -28,12 +28,11 @@ Descrever o processo de utilização do Youtube como repositório de vídeos e f
 1. Descrever o processo de avaliação dos alunos atrelado à utilização de vídeos;
 1. Analisar o impacto da integração dos vídeos no processo de ensino-aprendizagem dos alunos.
 
-## Campo Empírico:
+## Campo Empírico
 Cursos técnicos profissionalizantes de Eletrotécnica e Automação Industrial da Universidade Potiguar.
 
-## Justificativa:
+## Justificativa
 
-
-## Motivação:
+## Motivação
 
 
