@@ -5,7 +5,7 @@
 Objetivo
 Formar professores do ensino superior para a produção de vídeos educacionais.
 
-Campo Empírico
+Campo EmpíricO
 Instituição de Ensino Superior privada em Natal/RN.
 
 Justificativa
