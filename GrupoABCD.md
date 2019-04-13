@@ -15,7 +15,10 @@ Motivação
 - Exigência do mercado para o uso das Tecnologias Digitais de Informação e Comunicação (TDIC).
 
 ## BRAINSTORMING
+[1. ARTIGO CIENTIFICO]
+
 Introdução
+
 Referencial teórico para o artigo
 - Formação continuada para o ensino superior - Bruna
 - TPACK - Daniel 
@@ -26,9 +29,10 @@ Referencial teórico para o artigo
 Resultados
 
 Conclusão
+
 Referências
 
-Produção de Vídeos
+[2. PRODUÇÃO DO VÍDEO]
 
 Gravação: 
 
