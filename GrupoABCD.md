@@ -73,4 +73,6 @@ Dia: 26 (sexta-feira) 14h às 22h
 
 
 ## INDICAÇÃO DE LEITURA
+- Ensino Híbrido: Bacich/ Tanzi Neto / Trevisani (Orgs.)
+- Produção de Conteúdos Educacionais: Filatro / Cairo
 - 
