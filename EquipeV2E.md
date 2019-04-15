@@ -32,7 +32,8 @@ Descrever o processo de utilização do Youtube como repositório de vídeos e f
 Cursos técnicos profissionalizantes de Eletrotécnica e Automação Industrial da Universidade Potiguar.
 
 ## Justificativa
+O uso dos vídeos como extensão da sala de aula vem sendo utilizado há muito tempo por diversos professores. No contexto desse trabalho, os vídeos têm sido publicados no Youtube com a finalidade de criar um repositório de conteúdo acerca dos temas estudados em sala de aula. Dessa forma, os alunos podem acessar o material de acordo com as próprias necessidades e fora do contexto da Universidade.
 
 ## Motivação
-
+A demanda surgiu por iniciativa dos próprios alunos que sentiram a necessidade de rever o conteúdo fora do ambiente da sala de aula.
 
