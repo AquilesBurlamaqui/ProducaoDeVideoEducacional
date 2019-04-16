@@ -36,3 +36,6 @@ O uso dos vídeos como extensão da sala de aula vem sendo utilizado há muito t
 
 ## Motivação
 A demanda para a produção dos vídeos surgiu por iniciativa dos próprios alunos que sentiram a necessidade de rever o conteúdo após os encontros presenciais. 
+
+## ROTEIRO
+
