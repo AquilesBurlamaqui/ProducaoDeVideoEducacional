@@ -18,6 +18,9 @@ Componente curricular do PPGITE - UFRN
 
 [Projeto ABCD](GrupoABCD.md)
 
-[Como editar os arquivos do git](https://www.markdownguide.org/basic-syntax)
-
 [Produçao de vídeo educacional para EAD em um contexto militar](PAND@.md)
+
+
+## Dicas
+
+[Como editar os arquivos do git](https://www.markdownguide.org/basic-syntax)
