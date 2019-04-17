@@ -3,6 +3,7 @@ Prática 03:
 Cícero Josean M. N. da Silva
 
 Eli Sales M. Lima
+
 Carlos Artur Guimarães
 
 # Pesquisa: " Integração da produção de vídeo na disciplina de Eletricidade Aplicada"
