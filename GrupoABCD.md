@@ -70,6 +70,8 @@ Dia: 26 (sexta-feira) 14h às 22h
 
 ## POWNTOON
 - Arquivo colaborativo para conhecer os recursos.
+- Tutoriais (Daniel)
+- Templates (Cristiane)
 
 
 ## INDICAÇÃO DE LEITURA
