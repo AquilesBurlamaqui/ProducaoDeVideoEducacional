@@ -54,7 +54,9 @@ Edição:
 
 ## ENCONTRO HANGOUTS
 Dia: 18 (quinta-feira) às 21h
-- Pauta: PowToon
+Pauta: 
+- PowToon: escolha do tema
+- Roteiro: criação das cenas, vinheta e textos
 
 
 ## ENCAMINHAMENTO PARA A PRÓXIMA AULA
