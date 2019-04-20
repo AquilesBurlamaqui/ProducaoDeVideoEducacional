@@ -74,9 +74,12 @@ Dia: 26 (sexta-feira) 14h às 22h
 - Arquivo colaborativo para conhecer os recursos.
 - Tutoriais (Daniel)
 - Templates (Cristiane)
+- Áudio (Daniel)
+- PowToon (Ana Patrícia / Bruna)
 
 
 ## INDICAÇÃO DE LEITURA
 - Ensino Híbrido (Bacich/ Tanzi Neto / Trevisani)
 - Produção de Conteúdos Educacionais (Filatro / Cairo)
 - Como preparar conteúdos para EaD (Filatro)
+- Sala de Aula Invertida (Bergmann / Sams)
