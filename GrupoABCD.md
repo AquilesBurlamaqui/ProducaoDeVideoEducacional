@@ -68,6 +68,7 @@ Dia: 26 (sexta-feira) 14h às 22h
 ## ARQUIVOS GOOGLE DRIVE
 - Agenda: proposta do grupo
 - Artigo Científico: divisão de tarefas
+- Roteiro: cenas 
 
 
 ## POWNTOON
