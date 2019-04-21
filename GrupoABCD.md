@@ -74,8 +74,9 @@ Dia: 26 (sexta-feira) 14h às 22h
 - Arquivo colaborativo para conhecer os recursos.
 - Tutoriais (Daniel)
 - Templates (Cristiane)
-- Áudio (Daniel)
+- Narração (Daniel)
 - PowToon (Ana Patrícia / Bruna)
+- Storyboard (Cristiane)
 
 
 ## INDICAÇÃO DE LEITURA
