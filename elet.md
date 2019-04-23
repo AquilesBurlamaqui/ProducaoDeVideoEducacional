@@ -24,3 +24,12 @@ Carlos Artur Guimarães
 
 > Utilizar a produção de vídeo como forma de apresentação e avaliação da execução de um projeto de instalações elétricas.
 
+
+## Cheklist disciplina
+> Finalização do roteiro
+> gravação do vídeo de apresentação (1 min de duração)
+> assistir vídeo aula sobre o FILMORAGO - (link no sigaa)
+> Edição
+> Compartilhamento whatsapp
+
+
