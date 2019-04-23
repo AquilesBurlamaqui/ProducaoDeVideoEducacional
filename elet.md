@@ -37,6 +37,7 @@ Carlos Artur Guimarães
 "30 Campo empiríco / 
 "40 Justificativa /
 "50 Motivação /
+
 > (2) Gravação do vídeo de apresentação (1 min de duração)
 
 > (3) Assistir vídeo aula sobre o FILMORAGO - (link no sigaa)
@@ -44,5 +45,40 @@ Carlos Artur Guimarães
 > (4) Edição do vídeo
 
 > (5) Compartilhamento whatsapp
+
+## Roteiro
+
+CENA 01 - EXT. IMD - MANHÃ
+
+CICERO
+	Bom dia turma. Estamos aqui para apresentar nosso trabalho da disciplina de Produção de Vídeo
+
+Artur
+  Nosso grupo é formado por Carlos Artur, Cícero Josean e Eli Sales
+  
+Eli
+  
+
+								CORTA PARA:
+
+CENA 02 - EXT. IMD - MANHÃ
+ALUNOS fazendo um projeto
+
+ELI
+			
+								CORTA PARA:
+
+CENA 03 - EXT. IMD - MANHÃ
+
+
+								CORTA PARA:
+
+CENA 04 - EXT. IMD - MANHÃ
+
+
+
+FIM
+
+
 
 
