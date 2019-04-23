@@ -48,7 +48,7 @@ Carlos Artur Guimarães
 
 ## Roteiro
 
-CENA 01 - EXT. IMD - MANHÃ
+> CENA 01 - EXT. IMD - MANHÃ
 
 CICERO
 	Bom dia turma. Estamos aqui para apresentar nosso trabalho da disciplina de Produção de Vídeo
@@ -61,23 +61,23 @@ Eli
 
 								CORTA PARA:
 
-CENA 02 - EXT. IMD - MANHÃ
+> CENA 02 - EXT. IMD - MANHÃ
 ALUNOS fazendo um projeto
 
 ELI
 			
 								CORTA PARA:
 
-CENA 03 - EXT. IMD - MANHÃ
+> CENA 03 - EXT. IMD - MANHÃ
 
 
 								CORTA PARA:
 
-CENA 04 - EXT. IMD - MANHÃ
+> CENA 04 - EXT. IMD - MANHÃ
 
 
 
-FIM
+> FIM
 
 
 
