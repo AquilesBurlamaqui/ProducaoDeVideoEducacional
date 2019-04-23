@@ -26,10 +26,10 @@ Carlos Artur Guimarães
 
 
 ## Cheklist disciplina
-> Finalização do roteiro
-> gravação do vídeo de apresentação (1 min de duração)
-> assistir vídeo aula sobre o FILMORAGO - (link no sigaa)
-> Edição
-> Compartilhamento whatsapp
+> (1) Finalização do roteiro  
+> (2) Gravação do vídeo de apresentação (1 min de duração)
+> (3) Assistir vídeo aula sobre o FILMORAGO - (link no sigaa)
+> (4) Edição do vídeo
+> (5) Compartilhamento whatsapp
 
 
