@@ -27,14 +27,16 @@ Carlos Artur Guimarães
 
 ## Cheklist disciplina
 > (1) Finalização do roteiro
-"01 Abertura do vídeo com logomarca
-"05 Apresentação do trabalho (superficial)
-"10 Apresentação do grupo 
-"15 Pesquisa
-"20 Objetivo
-"30 Campo empiríco 
-"40 Justificativa
-"50 Motivação
+#Parte I
+"01 Abertura do vídeo com logomarca /
+"05 Apresentação do trabalho (superficial) /
+"10 Apresentação do grupo / 
+"15 Pesquisa /
+#Parte II
+"20 Objetivo /
+"30 Campo empiríco / 
+"40 Justificativa /
+"50 Motivação /
 > (2) Gravação do vídeo de apresentação (1 min de duração)
 
 > (3) Assistir vídeo aula sobre o FILMORAGO - (link no sigaa)
