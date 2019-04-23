@@ -85,4 +85,4 @@ Dia: 26 (sexta-feira) 14h às 22h
 - Produção de Conteúdos Educacionais (Filatro / Cairo)
 - Como preparar conteúdos para EaD (Filatro)
 - Sala de Aula Invertida (Bergmann / Sams)
-- A Produção do Daterial Didático para EaD (Dalvaci Bento)
+- A Produção do Material Didático para EaD (Dalvaci Bento)
