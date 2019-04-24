@@ -54,9 +54,6 @@ Carlos Artur Guimarães
 Apresentação da Logomarca do PPgITE/IMD
 
 
-								CORTA PARA:
-
-
 > CENA 02 - EXT. IMD - MANHÃ
 
 CICERO
@@ -66,10 +63,7 @@ CICERO
 ARTUR
 
   	Nosso grupo é formado por Carlos Artur, Cícero Josean e Eli Sales
-  
-  	
-
-								CORTA PARA:
+	
 
 > CENA 03 - EXT. IMD - MANHÃ
 
@@ -88,8 +82,6 @@ CICERO
 
 	Portanto os alunos vão utilizar a produção de vídeo como forma de apresentação e avaliação da execução de um projeto de 	instalações elétricas.
 
-			
-								CORTA PARA:
 
 > CENA 04 - EXT. IMD - MANHÃ
 
@@ -113,8 +105,6 @@ ARTUR
 	E assim o produto final fica mais rico, e ainda os vídeos poderão ser usados posteriomente pelo professor em outras
 	turmas.
 
-
-								CORTA PARA:
 
 > CENA 05 - EXT. IMD - MANHÃ
 
