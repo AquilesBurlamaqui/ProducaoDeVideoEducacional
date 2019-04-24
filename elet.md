@@ -53,15 +53,18 @@ Carlos Artur Guimarães
 
 Apresentação da Logomarca do PPgITE/IMD
 
+
 								CORTA PARA:
 
 
 > CENA 02 - EXT. IMD - MANHÃ
 
 CICERO
+
 	Bom dia turma. Estamos aqui para apresentar nosso trabalho da disciplina de Produção de Vídeo
 
 ARTUR
+
   	Nosso grupo é formado por Carlos Artur, Cícero Josean e Eli Sales
   
   	
@@ -73,13 +76,16 @@ ARTUR
 ALUNOS fazendo um projeto
 
 ELI 
+
 	Nossa pesquisa é: " Integração da produção de vídeo na disciplina de Eletricidade Aplicada".
 	O objetivo é incentivar a produção de vídeo por alunos explicando como foi o processo de desenvolvimento de um projeto 	de instalações elétricas.
 
 ARTUR
+
 	Visto o baixo rendimento dos alunos nas avaliações de eletricidade aplicada, procura-se formas a motivá-los e ajudar na 	melhoria da aprendizagem da disciplina.
 
 CICERO
+
 	Portanto os alunos vão utilizar a produção de vídeo como forma de apresentação e avaliação da execução de um projeto de 	instalações elétricas.
 
 			
@@ -88,18 +94,22 @@ CICERO
 > CENA 04 - EXT. IMD - MANHÃ
 
 ARTUR
+
 	Os alunos normalmente desenvolvem o projeto em grupo, e em um dia marcado previamente, o apresenta ao professor.
 
 ELI
+
 	A proposta é justamente substituir essa apresentação ao professor por uma produção de vídeo, em que os alunos gravariam
 	e enviariam ao professor.
 
 CICERO
+
 	O objetivo dessa mudança é os alunos com o recurso do vídeo terem mais opções de apresentação e explicação do projeto,
 	já que poderão inserir inúmeros recursos ao vídeo, ilustrações, animações, algumas pequenas filmagens do desenvolvimento
 	do projeto, curiosidades, etc. 
 	
 ARTUR
+
 	E assim o produto final fica mais rico, e ainda os vídeos poderão ser usados posteriomente pelo professor em outras
 	turmas.
 
@@ -109,8 +119,8 @@ ARTUR
 > CENA 05 - EXT. IMD - MANHÃ
 
 ELI 
-	E ai...Vamos produzir?
 
+	E ai...Vamos produzir?
 
 
 > FIM
