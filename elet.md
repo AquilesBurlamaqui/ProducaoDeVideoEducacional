@@ -49,7 +49,7 @@ Carlos Artur Guimarães
 
 ## Roteiro
 
-> CENA 01 - 
+> CENA 01 
 
 Apresentação da Logomarca do PPgITE/IMD
 
@@ -65,7 +65,7 @@ ARTUR
   	Nosso grupo é formado por Carlos Artur, Cícero Josean e Eli Sales
 	
 
-> CENA 03 - EXT. IMD - MANHÃ
+> CENA 03 - INT. IMD - MANHÃ
 
 ALUNOS fazendo um projeto
 
@@ -83,7 +83,9 @@ CICERO
 	Portanto os alunos vão utilizar a produção de vídeo como forma de apresentação e avaliação da execução de um projeto de 	instalações elétricas.
 
 
-> CENA 04 - EXT. IMD - MANHÃ
+> CENA 04 - INT. - MANHÃ
+
+Imagem de um projeto elétrico
 
 ARTUR
 
@@ -106,7 +108,7 @@ ARTUR
 	turmas.
 
 
-> CENA 05 - EXT. IMD - MANHÃ
+> CENA 05 - INT. - MANHÃ
 
 ELI 
 
