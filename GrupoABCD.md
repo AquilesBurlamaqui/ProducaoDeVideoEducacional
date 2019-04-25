@@ -32,22 +32,27 @@ Conclusão
 
 Referências
 
-[2. PRODUÇÃO DO VÍDEO]
+[2. PRODUÇÃO DOS VÍDEOS]
 
-Roteiro:
+Temas:
+- Roteiro
+- Storyboard
 - Enquadramento
 - Iluminação
 - Áudio
 - Cenário
 - Viva Video: filmagem e edição
-- Movie Maker: edição
 - PownToon: produção de tutoriais
 
-Storyboard:
+Roteiro:
 
-Gravação: 
+Storyboard: www.storyboardthat.com
 
-Edição:Publicação:
+Gravação: Filmora Go
+
+Edição: Filmora Go
+
+Publicação: Youtube
 
 
 ## ENCONTRO HANGOUTS
