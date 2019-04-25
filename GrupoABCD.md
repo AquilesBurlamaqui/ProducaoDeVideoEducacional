@@ -34,8 +34,6 @@ Referências
 
 [2. PRODUÇÃO DO VÍDEO]
 
-Gravação: 
-
 Roteiro:
 - Enquadramento
 - Iluminação
@@ -45,11 +43,11 @@ Roteiro:
 - Movie Maker: edição
 - PownToon: produção de tutoriais
 
-Publicação:
-
 Storyboard:
 
-Edição:
+Gravação: 
+
+Edição:Publicação:
 
 
 ## ENCONTRO HANGOUTS
