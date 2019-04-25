@@ -77,7 +77,7 @@ Dia: 26 (sexta-feira) 14h às 22h
 - Tutoriais (Daniel)
 - Templates (Cristiane)
 - Narração (Daniel)
-- PowToon (Ana Patrícia / Bruna)
+- PowToon (Ana Patrícia / Bruna / Cristiane)
 - Storyboard (Cristiane)
 
 
