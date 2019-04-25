@@ -61,7 +61,7 @@ Pauta:
 
 ## ENCAMINHAMENTO PARA A PRÓXIMA AULA
 Dia: 26 (sexta-feira) 14h às 22h
-- Gravação e edição: vídeo explicando o projeto da disciplina (1min)
+- Roteiro, storyboard, gravação e edição: vídeo explicando o projeto da disciplina (1min)
 - Ver videoaula sobre FILMORA GO (Canal do Prof. Aquiles) 
 --> https://www.youtube.com/playlist?list=PLfGOgFSaHKF5zb9PINM7iRYzSLfvwe0Sn
 
