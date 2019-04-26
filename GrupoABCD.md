@@ -44,15 +44,14 @@ Temas:
 - Viva Video: filmagem e edição
 - PownToon: produção de tutoriais
 
-Roteiro:
+## RECURSOS UTILIZADOS
+Roteiro: Google Docs
 
 Storyboard: www.storyboardthat.com
 
-Gravação: Filmora Go
+Gravação / Edição: Filmora Go / PowToon / Du Recorder
 
-Edição: Filmora Go
-
-Publicação: Youtube
+Sites: PowToon / Youtube
 
 
 ## ENCONTRO HANGOUTS
@@ -103,7 +102,4 @@ Roteiro:
 
 Storyboard:
 
-
-
-
-
+Artigo Científico:
