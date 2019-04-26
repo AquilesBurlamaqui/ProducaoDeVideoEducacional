@@ -91,3 +91,19 @@ Dia: 26 (sexta-feira) 14h às 22h
 - Como preparar conteúdos para EaD (Andrea Filatro)
 - Sala de Aula Invertida (Jonathan Bergmann / Aaron Sams)
 - A Produção do Material Didático para EaD (Dalvaci Bento)
+
+## PRODUÇÃO DO GRUPO ABCD
+Apresentação da Proposta:
+https://www.powtoon.com/online-presentation/dVO19cboelu/?mode=movie
+
+Apresentação do Curso: 
+https://www.powtoon.com/online-presentation/dqmbeXGjAR3/?mode=movie 
+
+Roteiro:
+
+Storyboard:
+
+
+
+
+
