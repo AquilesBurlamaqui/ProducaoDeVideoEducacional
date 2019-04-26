@@ -87,7 +87,7 @@ Dia: 26 (sexta-feira) 14h às 22h
 
 ## INDICAÇÃO DE LEITURA
 - Ensino Híbrido (Lilian Bacich/ Adolfo Tanzi Neto / Fernando de Mello Trevisani)
-- Produção de Conteúdos Educacionais (Andra Filatro / Sabrina Cairo)
+- Produção de Conteúdos Educacionais (Andrea Filatro / Sabrina Cairo)
 - Como preparar conteúdos para EaD (Andrea Filatro)
 - Sala de Aula Invertida (Jonathan Bergmann / Aaron Sams)
 - A Produção do Material Didático para EaD (Dalvaci Bento)
