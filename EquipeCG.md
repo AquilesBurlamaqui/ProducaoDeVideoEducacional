@@ -1,8 +1,8 @@
 # Equipe CG
 
 1.Informações sobre o projeto final
-2.Roteiro do vídeo com apresentação do projeto final
-3.Vídeo de até um minuto, apresentando o projeto a ser desenvolvido pelo grupo.
+1.Roteiro do vídeo com apresentação do projeto final
+1.Vídeo de até um minuto, apresentando o projeto a ser desenvolvido pelo grupo.
 
 
 ## 1. Informações sobre o projeto final
