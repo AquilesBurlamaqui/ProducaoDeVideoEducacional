@@ -62,6 +62,7 @@ Sites: PowToon / Youtube
 Pauta: 
 
 ---PowToon: escolha do tema
+
 --- Roteiro: criação das cenas, vinheta e textos
 
 - WHATSAPP: Diariamente
