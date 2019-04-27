@@ -41,8 +41,10 @@ Temas:
 - Iluminação
 - Áudio
 - Cenário
-- Viva Video: filmagem e edição
-- PownToon: produção de tutoriais
+- Edição
+- Publicação
+- Aplicativos
+
 
 ## RECURSOS UTILIZADOS
 Roteiro: Google Docs
@@ -55,13 +57,15 @@ Sites: PowToon / Youtube
 
 
 ## ENCONTROS VIRTUAIS
-- HANBGOUTS
-Dia: 18 (quinta-feira) às 21h
+- HANBGOUTS: Dia 18/04 (quinta-feira) às 21h
+
 Pauta: 
+
 ---PowToon: escolha do tema
+
 --- Roteiro: criação das cenas, vinheta e textos
-- WHATSAPP
-Diariamente
+
+- WHATSAPP: Diariamente
 
 
 ## ENCAMINHAMENTO PARA A PRÓXIMA AULA
@@ -88,8 +92,9 @@ Dia: 03/maio (sexta-feira) 14h às 18h
 - Tutoriais (Daniel)
 - Templates (Cristiane)
 - Narração (Daniel)
-- PowToon (Ana Patrícia / Bruna / Cristiane)
+- Produção (Ana Patrícia / Bruna / Cristiane)
 - Storyboard (Cristiane)
+- Revisão (Ana Patrícia / Bruna / Daniel)
 
 
 ## INDICAÇÃO DE LEITURA
@@ -107,8 +112,8 @@ https://www.powtoon.com/online-presentation/dVO19cboelu/?mode=movie
 Apresentação do Curso: 
 https://www.powtoon.com/online-presentation/dqmbeXGjAR3/?mode=movie 
 
-Roteiro: Roteiro.pdf (anexo)
+Roteiro: Roteiro.pdf
 
-Storyboard: Storyboard.pdf (anexo)
+Storyboard: Storyboard.pdf
 
 Artigo Científico:
