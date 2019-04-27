@@ -58,7 +58,9 @@ Sites: PowToon / Youtube
 
 ## ENCONTROS VIRTUAIS
 - HANBGOUTS: Dia 18/04 (quinta-feira) às 21h
+
 Pauta: 
+
 ---PowToon: escolha do tema
 --- Roteiro: criação das cenas, vinheta e textos
 
