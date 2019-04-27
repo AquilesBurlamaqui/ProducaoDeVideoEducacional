@@ -49,7 +49,7 @@ Roteiro: Google Docs
 
 Storyboard: www.storyboardthat.com
 
-Gravação / Edição: Filmora Go / PowToon / Du Recorder
+Gravação / Edição: Filmora Go / PowToon / Du Recorder / www.bearaudiotool.com/pt
 
 Sites: PowToon / Youtube
 
@@ -73,6 +73,7 @@ Dia: 26 (sexta-feira) 14h às 22h
 - Agenda: proposta do grupo
 - Artigo Científico: divisão de tarefas
 - Roteiro: cenas 
+- Storyboard: cenas
 
 
 ## POWNTOON
