@@ -92,8 +92,9 @@ Dia: 03/maio (sexta-feira) 14h às 18h
 - Tutoriais (Daniel)
 - Templates (Cristiane)
 - Narração (Daniel)
-- PowToon (Ana Patrícia / Bruna / Cristiane)
+- Produção (Ana Patrícia / Bruna / Cristiane)
 - Storyboard (Cristiane)
+- Revisão (Ana Patrícia / Bruna / Daniel)
 
 
 ## INDICAÇÃO DE LEITURA
