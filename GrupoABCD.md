@@ -54,11 +54,14 @@ Gravação / Edição: Filmora Go / PowToon / Du Recorder / www.bearaudiotool.co
 Sites: PowToon / Youtube
 
 
-## ENCONTRO HANGOUTS
+## ENCONTROS VIRTUAIS
+- HANBGOUTS
 Dia: 18 (quinta-feira) às 21h
 Pauta: 
-- PowToon: escolha do tema
-- Roteiro: criação das cenas, vinheta e textos
+---PowToon: escolha do tema
+--- Roteiro: criação das cenas, vinheta e textos
+- WHATSAPP
+Diariamente
 
 
 ## ENCAMINHAMENTO PARA A PRÓXIMA AULA
