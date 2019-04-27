@@ -73,6 +73,7 @@ Dia: 26 (sexta-feira) 14h às 22h
 - Agenda: proposta do grupo
 - Artigo Científico: divisão de tarefas
 - Roteiro: cenas 
+- Storyboard: cenas
 
 
 ## POWNTOON
