@@ -1,6 +1,11 @@
 # Equipe CG
 
-## Informações sobre o projeto final
+1.Informações sobre o projeto final
+2.Roteiro do vídeo com apresentação do projeto final
+3.Vídeo de até um minuto, apresentando o projeto a ser desenvolvido pelo grupo.
+
+
+## 1. Informações sobre o projeto final
 
 ### Justificativa
 Aulas ministradas no ensino médio carecem de elementos com os quais os alunos se identifiquem, e que forneçam contextualização para problemas trabalhados dentro da sala de aula. Além disso, os alunos chegam a passar mais de uma hora em sala sem que o ritmo de uma aula expositiva seja quebrado, o que torna a aprendizagem monótona e cansativa.
@@ -14,5 +19,5 @@ Fazer um vídeo que sirva de inspiração para o uso, em sala de aula, de partid
 ### Público alvo
 A pesquisa é voltada para turmas do primeiro ano do ensino médio de escolas brasileiras.
 
-## Roteiro do vídeo com aprensetação do projeto final
-Roteiro elaborado no Google Docs. Disponível para edição [aqui](https://docs.google.com/document/d/1zSaIPeB4ClpE-fJs7RATveB2pebAaQNzshclb_ZQdEA/edit?usp=sharing)
+## 2. Roteiro do vídeo com apresentação do projeto final
+Roteiro de produção de um vídeo explicativo sobre o projeto final, elaborado no Google Docs. Disponível para edição [aqui](https://docs.google.com/document/d/1zSaIPeB4ClpE-fJs7RATveB2pebAaQNzshclb_ZQdEA/edit?usp=sharing)
