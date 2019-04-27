@@ -41,8 +41,10 @@ Temas:
 - Iluminação
 - Áudio
 - Cenário
-- Viva Video: filmagem e edição
-- PownToon: produção de tutoriais
+- Edição
+- Publicação
+- Aplicativos
+
 
 ## RECURSOS UTILIZADOS
 Roteiro: Google Docs
@@ -55,13 +57,12 @@ Sites: PowToon / Youtube
 
 
 ## ENCONTROS VIRTUAIS
-- HANBGOUTS
-Dia: 18 (quinta-feira) às 21h
+- HANBGOUTS: Dia 18/04 (quinta-feira) às 21h
 Pauta: 
 ---PowToon: escolha do tema
 --- Roteiro: criação das cenas, vinheta e textos
-- WHATSAPP
-Diariamente
+
+- WHATSAPP: Diariamente
 
 
 ## ENCAMINHAMENTO PARA A PRÓXIMA AULA
@@ -98,6 +99,7 @@ Dia: 03/maio (sexta-feira) 14h às 18h
 - Como preparar conteúdos para EaD (Andrea Filatro)
 - Sala de Aula Invertida (Jonathan Bergmann / Aaron Sams)
 - A Produção do Material Didático para EaD (Dalvaci Bento)
+
 
 ## PRODUÇÃO DO GRUPO ABCD
 Apresentação da Proposta:
