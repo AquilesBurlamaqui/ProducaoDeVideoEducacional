@@ -65,11 +65,15 @@ Diariamente
 
 
 ## ENCAMINHAMENTO PARA A PRÓXIMA AULA
-Dia: 26 (sexta-feira) 14h às 22h
+Dia: 26/abril (sexta-feira) 14h às 22h
 - 14h: visita a SEDIS (Secretaria de Educação a Distância)
 - Roteiro, storyboard, gravação e edição: vídeo explicando o projeto da disciplina (1min)
 - Ver videoaula sobre FILMORA GO (Canal do Prof. Aquiles) 
 --> https://www.youtube.com/playlist?list=PLfGOgFSaHKF5zb9PINM7iRYzSLfvwe0Sn
+
+Dia: 03/maio (sexta-feira) 14h às 18h 
+- Orientação do artigo científico
+- Entrega do vídeo (projeto final)  
 
 
 ## ARQUIVOS GOOGLE DRIVE
@@ -79,7 +83,7 @@ Dia: 26 (sexta-feira) 14h às 22h
 - Storyboard: cenas
 
 
-## POWNTOON
+## POWTOON
 - Arquivo colaborativo para conhecer os recursos.
 - Tutoriais (Daniel)
 - Templates (Cristiane)
