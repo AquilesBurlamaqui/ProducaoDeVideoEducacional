@@ -98,8 +98,8 @@ https://www.powtoon.com/online-presentation/dVO19cboelu/?mode=movie
 Apresentação do Curso: 
 https://www.powtoon.com/online-presentation/dqmbeXGjAR3/?mode=movie 
 
-Roteiro:
+Roteiro: Roteiro.pdf (anexo)
 
-Storyboard:
+Storyboard: Storyboard.pdf (anexo)
 
 Artigo Científico:
