@@ -8,7 +8,7 @@ Componente curricular do PPGITE - UFRN
 1. Relação do uso do vídeo com o universo dos alunos, dos professores e da sala de aula, presencial ou à distância
 1. [Etapas na Produção de Vídeo Educacional](etapasproducao.md)
 
-[Artigo](artigos.md)
+[Artigos](artigos.md)
 
 ## PROJETOS FINAIS
 
