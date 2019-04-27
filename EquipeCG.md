@@ -1,8 +1,9 @@
 # Equipe CG
 
-1. Informações sobre o projeto final
-1. Roteiro do vídeo com apresentação do projeto final
-1. Vídeo de até um minuto, apresentando o projeto a ser desenvolvido pelo grupo.
+Atividades desenvolvidas:
+1. Informações sobre o projeto final;
+1. Roteiro do vídeo com apresentação do projeto final;
+1. Vídeo de até um minuto apresentando o projeto a ser desenvolvido pelo grupo.
 
 
 ## 1. Informações sobre o projeto final
@@ -19,5 +20,7 @@ Fazer um vídeo que sirva de inspiração para o uso, em sala de aula, de partid
 ### Público alvo
 A pesquisa é voltada para turmas do primeiro ano do ensino médio de escolas brasileiras.
 
-## 2. Roteiro do vídeo com apresentação do projeto final
-Roteiro de produção de um vídeo explicativo sobre o projeto final, elaborado no Google Docs. Disponível para edição [aqui](https://docs.google.com/document/d/1zSaIPeB4ClpE-fJs7RATveB2pebAaQNzshclb_ZQdEA/edit?usp=sharing)
+## 2. Roteiro do vídeo de apresentação do projeto final
+Roteiro de produção de um vídeo explicativo sobre o projeto final, elaborado no Google Docs. Disponível para edição [aqui](https://docs.google.com/document/d/1zSaIPeB4ClpE-fJs7RATveB2pebAaQNzshclb_ZQdEA/edit?usp=sharing).
+
+## 3. Vídeo de apresentação do projeto final
