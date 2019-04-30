@@ -20,3 +20,10 @@
 > planta baixa elétrica com legenda;
 
 > outros itens que o grupo achar interessante.
+
+## Itens que serão avaliados:
+>segurança na apresentação;
+
+>todas as tabelas exigidas no projeto;
+
+>o nível do projeto elétrico de acordo com nível exigido durante as aulas;
