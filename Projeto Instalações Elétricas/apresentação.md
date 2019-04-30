@@ -10,10 +10,10 @@
 ## Meio de Entrega: Os alunos deverão produzir o vídeo e disponibilizá-lo em algum ambiente virtual público (Google Drive, Youtube, ou outros similares), e disponibilizar o link de acesso na atividade cadastrada no SIGAA da disciplina.
 
 ## Itens que devem ser contemplados no vídeo:
-### quadro de cargas e tabelas construídas no projeto;
+> quadro de cargas e tabelas construídas no projeto;
 
-### definição se a instalação adotada foi monofásica ou trifásica;
+> definição se a instalação adotada foi monofásica ou trifásica;
 
-### planta baixa elétrica com legenda;
+> planta baixa elétrica com legenda;
 
-### outros itens que o grupo achar interessante.
+> outros itens que o grupo achar interessante.
