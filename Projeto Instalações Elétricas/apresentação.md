@@ -11,6 +11,9 @@
 
 >>Itens que devem ser contemplados no vídeo:
 >>>quadro de cargas e tabelas construídas no projeto;
+
 >>>definição se a instalação adotada foi monofásica ou trifásica;
+
 >>>planta baixa elétrica com legenda;
+
 >>>outros itens que o grupo achar interessante.
