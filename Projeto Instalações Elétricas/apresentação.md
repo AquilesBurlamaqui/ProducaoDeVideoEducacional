@@ -34,6 +34,7 @@
 > Filmora GO
 > OBS Studio
 > DU Recorder
+> VivaVideo
 
 
 Obs.: Todas as tabelas pedidas em sala de aula e planta elétrica final devem ser entreguem em anexo no ambiente SIGAA.
