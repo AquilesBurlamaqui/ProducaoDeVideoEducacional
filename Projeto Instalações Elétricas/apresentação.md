@@ -2,10 +2,10 @@
 
 
 ## Objetivo: 
->Apresentação do andamento e conclusão do projeto de instalação elétrica de uma residência a partir de uma planta baixa disponibilizada pelo SIGAA.
+>Apresentação do andamento e conclusão do projeto de instalação elétrica de uma residência a partir de uma planta baixa disponibilizada no SIGAA.
 
 ## Metodologia: 
->A apresentação pelos alunos será feita a partir do recurso didático Vídeo, em que o grupo apresentará os meios utilizados para a produção das tabelas, bem como chegaram a planta elétrica final. De um modo geral, assim, mostrar todo o andamento do projeto.
+>A apresentação pelos alunos será feita a partir do recurso didático Vídeo, em que o grupo mostrará os meios utilizados para a produção dos dados das tabelas, bem como chegaram a planta elétrica final. De um modo geral, assim, mostrar todo o andamento do projeto.
 
 ## Data de Entrega: 
 
@@ -34,3 +34,5 @@
 > Filmora GO
 > OBS Studio
 > DU Recorder
+
+Obs.: Todas as tabelas pedidas em sala de aula e planta elétrica final devem ser entreguem em anexo no ambiente SIGAA.
