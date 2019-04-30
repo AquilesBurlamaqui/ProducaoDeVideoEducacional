@@ -27,3 +27,10 @@
 >todas as tabelas exigidas no projeto;
 
 >o nível do projeto elétrico de acordo com nível exigido durante as aulas;
+
+
+## Sugestão de Softwares:
+> Windows Movie Maker
+> Filmora GO
+> OBS Studio
+> DU Recorder
