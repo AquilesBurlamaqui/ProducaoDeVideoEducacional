@@ -93,8 +93,7 @@ Dia: 03/maio (sexta-feira) 14h às 18h
 - Artigo Científico: divisão de tarefas
 - Roteiro: cenas 
 - Storyboard: cenas
-- Questionários aplicados na oficina.
-- Storyboard: cenas
+- Resultado dos questionários aplicados na oficina.
 
 
 ## POWTOON
