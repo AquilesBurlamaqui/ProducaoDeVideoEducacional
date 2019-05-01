@@ -132,4 +132,4 @@ Artigo Científico:
 
 - Data: Turma 1 (29/04 manhã) / Turma 2 (30/04 noite)
 
-- Questionários: Diagnóstico (antes da oficina) e Avalição (após a oficina).
+- Questionários: Diagnóstico (antes da oficina) e Impacto da formação (após a oficina).
