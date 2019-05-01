@@ -93,6 +93,7 @@ Dia: 03/maio (sexta-feira) 14h às 18h
 - Artigo Científico: divisão de tarefas
 - Roteiro: cenas 
 - Storyboard: cenas
+- Resultado dos questinários aplicados na oficina.
 
 
 ## POWTOON
@@ -125,3 +126,10 @@ Roteiro: Roteiro.pdf
 Storyboard: Storyboard.pdf
 
 Artigo Científico:
+
+## OFICINA - PRODUÇÃO DE VÍDEOS EDUCACIONAIS
+- Público: Docentes de IES privada no RN
+
+- Data: Turma 1 (29/04 manhã) / Turma 2 (30/04 noite)
+
+- Questionários: Diagnóstico (antes da oficina) e Avalição (após a oficina).
