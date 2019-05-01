@@ -65,6 +65,14 @@ Pauta:
 
 --- Roteiro: criação das cenas, vinheta e textos
 
+- HANBGOUTS: Dia 01/05 (quarta-feira) às 21h
+
+Pauta: 
+
+--- Vídeo final
+
+--- Artigo Científico
+
 - WHATSAPP: Diariamente
 
 
