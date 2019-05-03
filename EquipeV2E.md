@@ -64,10 +64,14 @@ A demanda para a produção dos vídeos surgiu por iniciativa dos próprios alun
 <p> Descrição da cena: Slide apresentando o objetivo geral. </p>
 
 ### Cena 04:
-<p> Texto falado: </p>
-<p> Indicação da fala: </p>
-<p> Lettering: </p>
-<p> Descrição da cena: </p>
+<p> Texto falado: "O trabalho possui objetivos específicos, que são eles: </p>
+<p>- Caracterizar vídeos disponíveis no canal do Youtube em relação aos conteúdos; </p>
+<p>- Detalhar a maneira que o canal é utilizado como recurso de extensão da sala de aula; </p>
+<p>- Descrever o processo avaliativo dos alunos atrelado à utilização de vídeos; </p>
+<p>- Analisar o impacto da integração dos vídeos no processo de ensino-aprendizagem dos participantes </p>
+<p> Indicação da fala: Eduardo</p>
+<p> Lettering: Objetivos específicos</p>
+<p> Descrição da cena: Slide contendo os objetivos específicos. </p>
 
 ### Cena 05:
 <p> Texto falado: </p>
