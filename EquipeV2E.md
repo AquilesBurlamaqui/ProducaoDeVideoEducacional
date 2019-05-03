@@ -74,14 +74,14 @@ A demanda para a produção dos vídeos surgiu por iniciativa dos próprios alun
 <p> Descrição da cena: Slide contendo os objetivos específicos. </p>
 
 ### Cena 05:
-<p> Texto falado: </p>
-<p> Indicação da fala: </p>
-<p> Lettering: </p>
-<p> Descrição da cena: </p>
+<p> Texto falado: Esperamos que nossa pesquisa possa dar suporte à prática de outros docentes, e porque não, incentivar pesquisas futuras. </p>
+<p> Indicação da fala: Verõnica </p>
+<p> Lettering: Expectativas do trabalho </p>
+<p> Descrição da cena: Expectativas </p>
 
 ### Cena 06:
-<p> Texto falado: </p>
-<p> Indicação da fala: </p>
-<p> Lettering: </p>
-<p> Descrição da cena: </p>
+<p> Texto falado: Agradecemos sua atenção e queremos lhe convidar para assistir às videoaulas no endereço acima, e acessando ao artigo completo clicando no link que aparece na sua tela. </p>
+<p> Indicação da fala: Verônica</p>
+<p> Lettering: Finalização </p>
+<p> Descrição da cena: Finalização da apresentação. </p>
 
