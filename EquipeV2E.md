@@ -38,12 +38,12 @@ O uso dos vídeos como extensão da sala de aula vem sendo utilizado há muito t
 A demanda para a produção dos vídeos surgiu por iniciativa dos próprios alunos que sentiram a necessidade de rever o conteúdo após os encontros presenciais. 
 
 ## ROTEIRO
-Roteirista: Eduardo, Edneide e Verónica
-Status:  Em construção
-Tempo estimado: 1 min
-Revisado por:
-Versão: 1.0
-Aprovado por:
+1. Roteirista: Eduardo, Edneide e Verónica
+1. Status:  Em construção
+1. Tempo estimado: 1 min
+1. Revisado por:
+1. Versão: 1.0
+1. Aprovado por:
 
 ## Cena 01: 
 Texto falado:
