@@ -2,10 +2,10 @@
 
 
 ## Objetivo: 
->Apresentação do andamento e conclusão do projeto de instalação elétrica de uma residência a partir de uma planta baixa disponibilizada no SIGAA.
+>Apresentação por vídeo da construção e conclusão do projeto de instalação elétrica de uma residência a partir de uma planta baixa disponibilizada no SIGAA.
 
 ## Metodologia: 
->A apresentação pelos alunos será feita a partir do recurso didático Vídeo, em que o grupo mostrará os meios utilizados para a produção dos dados das tabelas, bem como chegaram a planta elétrica final. De um modo geral, assim, mostrar todo o andamento do projeto.
+>A apresentação pelos alunos será feita a partir do recurso didático Vídeo, em que o grupo mostrará os meios utilizados para a produção dos dados das tabelas, justificando suas escolhas metodológicas, bem como chegaram a planta elétrica final. De um modo geral, assim, mostrar todo o andamento do projeto.
 
 ## Data de Entrega: 
 
@@ -13,28 +13,38 @@
 >Os alunos deverão produzir o vídeo e disponibilizá-lo em algum ambiente virtual público (Google Drive, Youtube, ou outros similares), e disponibilizar o link de acesso na atividade cadastrada no SIGAA da disciplina.
 
 ## Itens que devem ser contemplados no vídeo:
+> locação dos pontos de iluminação
+
+> locação dos pontos de TUG e TUE
+
+> escolhas e justificativas dos pontos de iluminação
+
+> escolhas e justificativas dos pontos de TUG e TUE
+
 > quadro de cargas e tabelas construídas no projeto;
+
+> condutoramento (Consultar a NBR 5410, critério de seção mínima)
 
 > definição se a instalação adotada foi monofásica ou trifásica;
 
 > planta baixa elétrica com legenda;
 
-> outros itens que o grupo achar interessante.
 
 ## Itens que serão avaliados:
->segurança na apresentação;
+> vídeo preciso e suscinto sobre o projeto;
 
->todas as tabelas exigidas no projeto;
+> didática na apresentação;
 
->o nível do projeto elétrico de acordo com nível exigido durante as aulas;
+> todas as tabelas exigidas no projeto;
+
+> projeto elétrico bem justificado;
 
 
-## Sugestão de Softwares:
+## Sugestão de Softwares para Produção de Vídeo:
+> HitFilm
 > Windows Movie Maker
-> Filmora GO
 > OBS Studio
 > DU Recorder
-> VivaVideo
-
+> DaVinci Resolver
 
 Obs.: Todas as tabelas pedidas em sala de aula e planta elétrica final devem ser entreguem em anexo no ambiente SIGAA.
