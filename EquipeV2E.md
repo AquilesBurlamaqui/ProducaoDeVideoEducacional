@@ -46,10 +46,10 @@ Versão: 1.0
 Aprovado por:
 
 ## Cena 01: 
-Texto falado:
-Indicação da fala:
-Lettering:
-Descrição da cena:
+Texto falado:\n
+Indicação da fala:\n
+Lettering:\n
+Descrição da cena:\n
 
 ## Cena 02:
 
