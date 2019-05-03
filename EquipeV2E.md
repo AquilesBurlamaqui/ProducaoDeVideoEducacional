@@ -2,16 +2,15 @@
 Componente curricular do PPGITE - UFRN
 
 
-
 ## PROJETO FINAL - ARTIGO
-
 Componentes:
 1. Edneide Galvão
 1. Eduardo Morais
 1. Verônica Segovia
 
 
-## Título: O uso do Youtube como ferramenta de suporte ao processo de ensino-aprendizagem em cursos técnicos de Eletrotécnica e Automação Industrial.
+## TÍTULO
+<p> O uso do Youtube como ferramenta de suporte ao processo de ensino-aprendizagem em cursos técnicos de Eletrotécnica e Automação Industrial. </p>
 
 ## Pergunta de pesquisa
 Como integrar o processo de produção de vídeo no contexto de ensino-aprendizagem em cursos técnicos de Eletrotécnica e Automação Industrial?
@@ -37,7 +36,7 @@ O uso dos vídeos como extensão da sala de aula vem sendo utilizado há muito t
 ## Motivação
 A demanda para a produção dos vídeos surgiu por iniciativa dos próprios alunos que sentiram a necessidade de rever o conteúdo após os encontros presenciais. 
 
-## ROTEIRO
+## Roteiro
 1. Roteirista: Eduardo, Edneide e Verónica
 1. Status:  Em construção
 1. Tempo estimado: 1 min
