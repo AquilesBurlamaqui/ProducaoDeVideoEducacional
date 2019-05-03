@@ -45,20 +45,20 @@ Revisado por:
 Versão: 1.0
 Aprovado por:
 
-# Cena 01: 
+## Cena 01: 
 Texto falado:
 Indicação da fala:
 Lettering:
 Descrição da cena:
 
-# Cena 02:
+## Cena 02:
 
-# Cena 03:
+## Cena 03:
 
-# Cena 04:
+## Cena 04:
 
-# Cena 05:
+## Cena 05:
 
-# Cena 06:
+## Cena 06:
 
 
