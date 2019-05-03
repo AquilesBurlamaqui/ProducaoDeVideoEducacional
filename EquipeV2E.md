@@ -10,7 +10,7 @@ Componentes:
 
 
 ## TÍTULO
-<p> O uso do Youtube como ferramenta de suporte ao processo de ensino-aprendizagem em cursos técnicos de Eletrotécnica e Automação Industrial. </p>
+<p> **O uso do Youtube como ferramenta de suporte ao processo de ensino-aprendizagem em cursos técnicos de Eletrotécnica e Automação Industrial.** </p>
 
 ## Pergunta de pesquisa
 Como integrar o processo de produção de vídeo no contexto de ensino-aprendizagem em cursos técnicos de Eletrotécnica e Automação Industrial?
