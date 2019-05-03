@@ -53,15 +53,15 @@ A demanda para a produção dos vídeos surgiu por iniciativa dos próprios alun
 
 ### Cena 02: 
 <p> Texto falado: </p>
-<p> Indicação da fala: </p>
-<p> Lettering: </p>
-<p> Descrição da cena: </p>
+<p> Indicação da fala: Verônica</p>
+<p> Lettering: O Uso do Youtube como ferramenta de suporte ao processo de ensino-aprendizagem em cursos técnicos de Eletrotécnica e Automação Industrial </p>
+<p> Descrição da cena: Título do Artigo</p>
 
 ### Cena 03:
-<p> Texto falado: </p>
-<p> Indicação da fala: </p>
-<p> Lettering: </p>
-<p> Descrição da cena: </p>
+<p> Texto falado: O objetivo geral deste artigo consiste em descrever o processo de utilização do Youtube como repositório de vídeos e ferramenta avaliativa em cursos técnicos. Além disso, analisar o impacto desse método no processo de ensino-aprendizagem.</p>
+<p> Indicação da fala: Eduardo</p>
+<p> Lettering: Analisar o impacto do Youtube como repositório de vídeos e ferramenta avaliativa.</p>
+<p> Descrição da cena: Slide apresentando o objetivo geral. </p>
 
 ### Cena 04:
 <p> Texto falado: </p>
