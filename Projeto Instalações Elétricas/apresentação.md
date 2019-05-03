@@ -42,9 +42,13 @@
 
 ## Sugestão de Softwares para Produção de Vídeo:
 > HitFilm
+
 > Windows Movie Maker
+
 > OBS Studio
+
 > DU Recorder
+
 > DaVinci Resolver
 
 Obs.: Todas as tabelas pedidas em sala de aula e planta elétrica final devem ser entreguem em anexo no ambiente SIGAA.
