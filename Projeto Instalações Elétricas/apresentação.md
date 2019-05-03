@@ -31,9 +31,9 @@
 
 
 ## Itens que serão avaliados:
-> vídeo preciso e suscinto sobre o projeto;
+> TEMPO;
 
-> didática na apresentação;
+> apresentação dos conceitos;
 
 > todas as tabelas exigidas no projeto;
 
