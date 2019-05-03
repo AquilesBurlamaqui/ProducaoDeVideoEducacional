@@ -10,7 +10,7 @@
 ## Data de Entrega: 
 
 ## Meio de Entrega: 
->Os alunos deverão produzir o vídeo e disponibilizá-lo em algum ambiente virtual público (Google Drive, Youtube, ou outros similares), e disponibilizar o link de acesso na atividade cadastrada no SIGAA da disciplina.
+>Os alunos deverão produzir o vídeo e disponibilizá-lo no Youtube, com resumo na descrição e disponibilizar o link de acesso na atividade cadastrada no SIGAA da disciplina.
 
 ## Itens que devem ser contemplados no vídeo:
 > locação dos pontos de iluminação
@@ -29,6 +29,7 @@
 
 > planta baixa elétrica com legenda;
 
+> nome dos componentes do grupo
 
 ## Itens que serão avaliados:
 > TEMPO;
