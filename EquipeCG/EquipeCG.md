@@ -24,3 +24,5 @@ A pesquisa é voltada para turmas do primeiro ano do ensino médio de escolas br
 Roteiro de produção de um vídeo explicativo sobre o projeto final, elaborado no Google Docs. Disponível para edição [aqui](https://docs.google.com/document/d/1zSaIPeB4ClpE-fJs7RATveB2pebAaQNzshclb_ZQdEA/edit?usp=sharing).
 
 ## 3. Vídeo de apresentação do projeto final
+
+[Link para o vídeo no site do Powtoon](https://www.powtoon.com/c/dTHzE6FI7T7/1/m).
