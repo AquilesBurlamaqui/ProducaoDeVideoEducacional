@@ -14,6 +14,6 @@ Temaplate para o IJIER : [Template IJIER](https://docs.google.com/document/d/1pV
 1. [Formação continuada de professores de ensino superior para produção de vídeos educacionais: propostas de utilização em sala de aula](https://docs.google.com/document/d/1GYGCOIyPfrDP2S7jBdpP_ZoQKFJuYELvPoJfxg6ry-A/edit)
 1. [PRODUÇÃO DE VÍDEOS: O ESTADO DA ARTE E AS POSSIBILIDADES DE ENSINO NOS AMBIENTES ESCOLARES](https://docs.google.com/document/d/1HA7v-c7WNiPlSDV9T9V5OMQOX89cTNb5z1ZogOiL2Uo/edit?usp=sharing)
 1. [PRODUÇÃO DE VÍDEO EDUCATIVO NO ENSINO A DISTANCIA DE UMA UNIDADE DA FORÇA AÉREA BRASILEIRA](https://docs.google.com/document/d/142B4NJRVMVBpUpJ8nWwhgbfC-u47O3O9BK3X_lBvHZ4/edit)
-
+1. [Produção de vídeo na educação Básica](https://docs.google.com/document/d/1oKvVnTcBH8g6Zwt5LyD878FJKiPUldZqzw2yBqa1MUM/edit?usp=sharing)
 
 
