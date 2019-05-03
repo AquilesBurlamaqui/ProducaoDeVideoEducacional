@@ -27,3 +27,4 @@ Jadson Lucas
 ## Anexos
 
 [Roteiros](https://docs.google.com/document/d/1GEGRsFhJ7rYOYsJqWd09G3uIqM9VIBkogvkLIwvZWe8/edit?usp=sharing)
+[Artigo da disciplina] (https://docs.google.com/document/d/12JozXrqMkaaLVPIE900xqzmkFemybgVTjhqLn3uqFsk/edit?usp=sharing)
