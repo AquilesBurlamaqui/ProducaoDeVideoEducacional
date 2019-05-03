@@ -24,6 +24,8 @@ Componente curricular do PPGITE - UFRN
 
 [Produçao de vídeo educacional para EAD em um contexto militar](PAND@.md)
 
+[Las chicas](Las_chicas.md)
+
 
 ## Dicas
 
