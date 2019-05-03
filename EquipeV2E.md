@@ -44,13 +44,14 @@ A demanda para a produção dos vídeos surgiu por iniciativa dos próprios alun
 <p> - Versão: 1.0 </p>
 <p> - Aprovado por: </p>
 
-### Cena 01: 
-<p> Texto falado: </p>
-<p> Indicação da fala: </p>
-<p> Lettering: </p>
-<p> Descrição da cena: </p>
 
-### Cena 02:
+### Cena 01:
+<p> Texto falado: Olá a todos. Bem- vindos à  disciplina de produção de vídeos.</p>
+<p> Indicação da fala: Eduardo</p>
+<p> Lettering: Produção de Vídeo</p>
+<p> Descrição da cena: Apresentação da Disciplina</p>
+
+### Cena 02: 
 <p> Texto falado: </p>
 <p> Indicação da fala: </p>
 <p> Lettering: </p>
