@@ -45,20 +45,39 @@ A demanda para a produção dos vídeos surgiu por iniciativa dos próprios alun
 1. Versão: 1.0
 1. Aprovado por:
 
-## Cena 01: 
-Texto falado:
-Indicação da fala:
-Lettering:
-Descrição da cena:
+### Cena 01: 
+<p> Texto falado: </p>
+<p> Indicação da fala: </p>
+<p> Lettering: </p>
+<p> Descrição da cena: </p>
 
-## Cena 02:
+### Cena 02:
+<p> Texto falado: </p>
+<p> Indicação da fala: </p>
+<p> Lettering: </p>
+<p> Descrição da cena: </p>
 
-## Cena 03:
+### Cena 03:
+<p> Texto falado: </p>
+<p> Indicação da fala: </p>
+<p> Lettering: </p>
+<p> Descrição da cena: </p>
 
-## Cena 04:
+### Cena 04:
+<p> Texto falado: </p>
+<p> Indicação da fala: </p>
+<p> Lettering: </p>
+<p> Descrição da cena: </p>
 
-## Cena 05:
+### Cena 05:
+<p> Texto falado: </p>
+<p> Indicação da fala: </p>
+<p> Lettering: </p>
+<p> Descrição da cena: </p>
 
-## Cena 06:
-
+### Cena 06:
+<p> Texto falado: </p>
+<p> Indicação da fala: </p>
+<p> Lettering: </p>
+<p> Descrição da cena: </p>
 
