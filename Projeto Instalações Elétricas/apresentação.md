@@ -32,13 +32,23 @@
 > nome dos componentes do grupo
 
 ## Itens que serão avaliados:
-> TEMPO;
+> Domínio do conteúdo teórico;
 
-> apresentação dos conceitos;
+> Relacionar a teoria aprendida em sala com a construção do projeto elétrico;
+
+> projeto elétrico bem justificado;
+
+> clareza na comunicação;
+
+> sequência didática adequada;
+
+> Coerência na utilização de recursos visuais;
+
+> TEMPO;
 
 > todas as tabelas exigidas no projeto;
 
-> projeto elétrico bem justificado;
+
 
 
 ## Sugestão de Softwares para Produção de Vídeo:
