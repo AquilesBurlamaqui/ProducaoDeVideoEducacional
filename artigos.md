@@ -11,5 +11,5 @@ Temaplate para o IJIER : [Template IJIER](https://docs.google.com/document/d/1pV
 ### Trablhos em Desenvolvimento
 
 1. [Um sistema na Nuvem para resolver todos os problemas do mundo](https://docs.google.com/document/d/1pVRtEzSiuonfiS08IcdXQHXIYctiCQYpjothuQtrn7k/edit)
-1. [Proposta de utilização em sala de aula]()
+1. [Proposta de utilização em sala de aula](https://docs.google.com/document/d/12JozXrqMkaaLVPIE900xqzmkFemybgVTjhqLn3uqFsk/edit?usp=sharing)
 
