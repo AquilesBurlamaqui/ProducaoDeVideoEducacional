@@ -26,6 +26,8 @@ Componente curricular do PPGITE - UFRN
 
 [Las chicas](Las_chicas.md)
 
+[Vivências na Produção de um Vídeo Amador](producao_video_amador.md)
+
 
 ## Dicas
 
